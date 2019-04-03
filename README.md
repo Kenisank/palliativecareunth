@@ -1,0 +1,2 @@
+# palliativecareunth
+The Pain and Palliative Care Unit of the University of Nigeria Teaching Hospital (UNTH) is the premier pain management and palliative medicine facility in South East Nigeria. Founded in 2008, the Unit caters to the palliative care needs of patients with chronic, life-limiting ailments such as chronic pain conditions, cancer, diabetes mellitus, HIV/AIDS and sickle-cell disease.
